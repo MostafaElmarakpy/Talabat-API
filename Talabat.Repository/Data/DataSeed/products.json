@@ -1,0 +1,367 @@
+[
+  {
+    "Name": "Nike Air Max 90",
+    "Description": "Classic running shoes with superior comfort",
+    "Price": 199.99,
+    "PictureUrl": "images/products/nike-air-max-90.jpg",
+    "ProductBrandId": 1,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Adidas Ultraboost",
+    "Description": "High-performance running shoes with energy return",
+    "Price": 179.99,
+    "PictureUrl": "images/products/adidas-ultraboost.jpg",
+    "ProductBrandId": 2,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Nike Dri-FIT T-Shirt",
+    "Description": "Moisture-wicking training t-shirt",
+    "Price": 34.99,
+    "PictureUrl": "images/products/nike-drifit.jpg",
+    "ProductBrandId": 1,
+    "ProductTypeId": 2
+  },
+  {
+    "Name": "Puma Essential Shorts",
+    "Description": "Comfortable athletic shorts",
+    "Price": 29.99,
+    "PictureUrl": "images/products/puma-shorts.jpg",
+    "ProductBrandId": 3,
+    "ProductTypeId": 3
+  },
+  {
+    "Name": "Under Armour Tech Jacket",
+    "Description": "Lightweight training jacket",
+    "Price": 89.99,
+    "PictureUrl": "images/products/ua-jacket.jpg",
+    "ProductBrandId": 4,
+    "ProductTypeId": 4
+  },
+  {
+    "Name": "Nike Zoom Pegasus",
+    "Description": "Versatile running shoes for all surfaces",
+    "Price": 159.99,
+    "PictureUrl": "images/products/nike-pegasus.jpg",
+    "ProductBrandId": 1,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Adidas Track Pants",
+    "Description": "Classic training pants with stripes",
+    "Price": 64.99,
+    "PictureUrl": "images/products/adidas-pants.jpg",
+    "ProductBrandId": 2,
+    "ProductTypeId": 3
+  },
+  {
+    "Name": "Puma RS-X Sneakers",
+    "Description": "Retro-style casual sneakers",
+    "Price": 129.99,
+    "PictureUrl": "images/products/puma-rsx.jpg",
+    "ProductBrandId": 3,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Nike Pro Compression",
+    "Description": "Athletic compression shirt",
+    "Price": 44.99,
+    "PictureUrl": "images/products/nike-compression.jpg",
+    "ProductBrandId": 1,
+    "ProductTypeId": 2
+  },
+  {
+    "Name": "Under Armour Shorts",
+    "Description": "Breathable gym shorts",
+    "Price": 39.99,
+    "PictureUrl": "images/products/ua-shorts.jpg",
+    "ProductBrandId": 4,
+    "ProductTypeId": 3
+  },
+  {
+    "Name": "Adidas Originals Tee",
+    "Description": "Classic trefoil logo t-shirt",
+    "Price": 29.99,
+    "PictureUrl": "images/products/adidas-tee.jpg",
+    "ProductBrandId": 2,
+    "ProductTypeId": 2
+  },
+  {
+    "Name": "Nike React Infinity",
+    "Description": "Long-distance running shoes",
+    "Price": 189.99,
+    "PictureUrl": "images/products/nike-react.jpg",
+    "ProductBrandId": 1,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Puma Training Jacket",
+    "Description": "Lightweight sports jacket",
+    "Price": 79.99,
+    "PictureUrl": "images/products/puma-jacket.jpg",
+    "ProductBrandId": 3,
+    "ProductTypeId": 4
+  },
+  {
+    "Name": "Under Armour Hoodie",
+    "Description": "Warm athletic hoodie",
+    "Price": 74.99,
+    "PictureUrl": "images/products/ua-hoodie.jpg",
+    "ProductBrandId": 4,
+    "ProductTypeId": 4
+  },
+  {
+    "Name": "Nike Training Shorts",
+    "Description": "Flexible workout shorts",
+    "Price": 34.99,
+    "PictureUrl": "images/products/nike-shorts.jpg",
+    "ProductBrandId": 1,
+    "ProductTypeId": 3
+  },
+  {
+    "Name": "Adidas NMD Runner",
+    "Description": "Street-style running shoes",
+    "Price": 169.99,
+    "PictureUrl": "images/products/adidas-nmd.jpg",
+    "ProductBrandId": 2,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Puma Basic Tee",
+    "Description": "Comfortable cotton t-shirt",
+    "Price": 24.99,
+    "PictureUrl": "images/products/puma-tee.jpg",
+    "ProductBrandId": 3,
+    "ProductTypeId": 2
+  },
+  {
+    "Name": "Under Armour Leggings",
+    "Description": "High-performance training leggings",
+    "Price": 59.99,
+    "PictureUrl": "images/products/ua-leggings.jpg",
+    "ProductBrandId": 4,
+    "ProductTypeId": 3
+  },
+  {
+    "Name": "Nike Windrunner",
+    "Description": "Classic windbreaker jacket",
+    "Price": 99.99,
+    "PictureUrl": "images/products/nike-windrunner.jpg",
+    "ProductBrandId": 1,
+    "ProductTypeId": 4
+  },
+  {
+    "Name": "Adidas Supernova",
+    "Description": "Cushioned running shoes",
+    "Price": 139.99,
+    "PictureUrl": "images/products/adidas-supernova.jpg",
+    "ProductBrandId": 2,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Nike Free Run",
+    "Description": "Natural running experience shoes",
+    "Price": 149.99,
+    "PictureUrl": "images/products/nike-free.jpg",
+    "ProductBrandId": 1,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Puma Cell Rider",
+    "Description": "Retro-inspired sneakers",
+    "Price": 119.99,
+    "PictureUrl": "images/products/puma-cell.jpg",
+    "ProductBrandId": 3,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Under Armour HOVR",
+    "Description": "Connected running shoes",
+    "Price": 159.99,
+    "PictureUrl": "images/products/ua-hovr.jpg",
+    "ProductBrandId": 4,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Adidas 3-Stripes Tee",
+    "Description": "Classic sport t-shirt",
+    "Price": 34.99,
+    "PictureUrl": "images/products/adidas-stripes.jpg",
+    "ProductBrandId": 2,
+    "ProductTypeId": 2
+  },
+  {
+    "Name": "Nike Tech Fleece",
+    "Description": "Premium lifestyle pants",
+    "Price": 109.99,
+    "PictureUrl": "images/products/nike-techfleece.jpg",
+    "ProductBrandId": 1,
+    "ProductTypeId": 3
+  },
+  {
+    "Name": "Nike Air Force 1",
+    "Description": "Iconic street style sneakers",
+    "Price": 129.99,
+    "PictureUrl": "images/products/nike-af1.jpg",
+    "ProductBrandId": 1,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Adidas Gazelle",
+    "Description": "Classic casual sneakers",
+    "Price": 89.99,
+    "PictureUrl": "images/products/adidas-gazelle.jpg",
+    "ProductBrandId": 2,
+    "ProductTypeId": 1
+  },
+
+
+  {
+    "Name": "Nike Air Max 90",
+    "Description": "Classic running shoes with air cushioning",
+    "Price": 199.99,
+    "PictureUrl": "images/products/nike-airmax-90.jpg",
+    "ProductBrandId": 1,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Adidas Ultraboost",
+    "Description": "High-performance running shoes with Boost technology",
+    "Price": 179.99,
+    "PictureUrl": "images/products/adidas-ultraboost.jpg",
+    "ProductBrandId": 2,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Nike Dri-FIT T-Shirt",
+    "Description": "Moisture-wicking training t-shirt",
+    "Price": 34.99,
+    "PictureUrl": "images/products/nike-drifit.jpg",
+    "ProductBrandId": 1,
+    "ProductTypeId": 2
+  },
+  {
+    "Name": "Puma RS-X",
+    "Description": "Retro-style sneakers with modern comfort",
+    "Price": 129.99,
+    "PictureUrl": "images/products/puma-rsx.jpg",
+    "ProductBrandId": 3,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Under Armour Tech Shorts",
+    "Description": "Lightweight training shorts",
+    "Price": 29.99,
+    "PictureUrl": "images/products/ua-tech-shorts.jpg",
+    "ProductBrandId": 4,
+    "ProductTypeId": 3
+  },
+
+  {
+    "Name": "Nike Pro Compression",
+    "Description": "Compression training shorts",
+    "Price": 39.99,
+    "PictureUrl": "images/products/nike-pro.jpg",
+    "ProductBrandId": 1,
+    "ProductTypeId": 3
+  },
+  {
+    "Name": "Adidas Originals Hoodie",
+    "Description": "Classic trefoil hoodie sweatshirt",
+    "Price": 69.99,
+    "PictureUrl": "images/products/adidas-hoodie.jpg",
+    "ProductBrandId": 2,
+    "ProductTypeId": 4
+  },
+  {
+    "Name": "Puma Suede Classic",
+    "Description": "Iconic casual sneakers",
+    "Price": 79.99,
+    "PictureUrl": "images/products/puma-suede.jpg",
+    "ProductBrandId": 3,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Under Armour Storm Jacket",
+    "Description": "Water-resistant running jacket",
+    "Price": 89.99,
+    "PictureUrl": "images/products/ua-storm.jpg",
+    "ProductBrandId": 4,
+    "ProductTypeId": 4
+  },
+  {
+    "Name": "Nike Zoom Pegasus",
+    "Description": "Versatile running shoes",
+    "Price": 129.99,
+    "PictureUrl": "images/products/nike-pegasus.jpg",
+    "ProductBrandId": 1,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Adidas Squadra Shorts",
+    "Description": "Soccer shorts with climacool",
+    "Price": 29.99,
+    "PictureUrl": "images/products/adidas-squadra.jpg",
+    "ProductBrandId": 2,
+    "ProductTypeId": 3
+  },
+  {
+    "Name": "Nike Air Force 1",
+    "Description": "Classic streetwear sneakers",
+    "Price": 109.99,
+    "PictureUrl": "images/products/nike-af1.jpg",
+    "ProductBrandId": 1,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Under Armour Charged Cotton",
+    "Description": "Premium cotton training shirt",
+    "Price": 34.99,
+    "PictureUrl": "images/products/ua-cotton.jpg",
+    "ProductBrandId": 4,
+    "ProductTypeId": 2
+  },
+  {
+    "Name": "Puma Ferrari Collection Jacket",
+    "Description": "Motorsport inspired jacket",
+    "Price": 149.99,
+    "PictureUrl": "images/products/puma-ferrari.jpg",
+    "ProductBrandId": 3,
+    "ProductTypeId": 4
+  },
+  {
+    "Name": "Adidas NMD Runner",
+    "Description": "Modern lifestyle sneakers",
+    "Price": 139.99,
+    "PictureUrl": "images/products/adidas-nmd.jpg",
+    "ProductBrandId": 2,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Nike Element Hoodie",
+    "Description": "Running hoodie with thumb holes",
+    "Price": 79.99,
+    "PictureUrl": "images/products/nike-element.jpg",
+    "ProductBrandId": 1,
+    "ProductTypeId": 4
+  },
+  {
+    "Name": "Under Armour Project Rock",
+    "Description": "Training shoes designed with The Rock",
+    "Price": 149.99,
+    "PictureUrl": "images/products/ua-rock.jpg",
+    "ProductBrandId": 4,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Nike Mercurial Vapor",
+    "Description": "Professional soccer cleats",
+    "Price": 249.99,
+    "PictureUrl": "images/products/nike-vapor.jpg",
+    "ProductBrandId": 1,
+    "ProductTypeId": 1
+  }
+
+
+]
