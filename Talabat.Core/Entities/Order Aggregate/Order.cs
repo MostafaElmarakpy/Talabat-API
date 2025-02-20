@@ -47,3 +47,4 @@ namespace Talabat.Core.Entities.Order_Aggregate
     }
 
 }
+
