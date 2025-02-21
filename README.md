@@ -30,7 +30,7 @@ src/
 ### Getting Started
 
 #### Prerequisites
-- .NET 6.0 SDK
+- .NET 8.0 SDK
 - Docker and Docker Compose
 - Visual Studio 2022 or VS Code
 - redis
@@ -57,8 +57,8 @@ This will start:
     ```json
     {
       "ConnectionStrings": {
-        "DefaultConnection": "Server=localhost;Database=TalabatDb;User=sa;Password=YourStrong!Passw0rd;",
-        "IdentityConnection": "Server=localhost;Database=TalabatIdentity;User Id=sa;Password=YourStrong!Passw0rd;"
+        "DefaultConnection": "Server=.;Database=TalabatDb;Integrated Security = true; Trusted_Connection=True; TrustServerCertificate=True;"
+        "IdentityConnection": "Server=.;Database=TalabatIdentity; Integrated Security = true; Trusted_Connection=True; TrustServerCertificate=True;"
       },
       "Redis": {
         "ConnectionString": "localhost:6379"
@@ -66,7 +66,7 @@ This will start:
       "Jwt": {
         "SecretKey": "7f98e3b1-4b7b-4b7b-8b7b-7b7b7b7b7b7b",
         "ValidIssuer": "https://localhost:7284/",
-        "ValidAudience": "Mohammed-Mostafa-Apis-Client",
+        "ValidAudience": "",
         "TokenLifeTime": 60
       }
        "StripeSettings": {
@@ -96,7 +96,7 @@ This will start:
 ### Endpoints
 
 **AccountController**
-- `POST /api/account/login`: Login a user
+- `POST /api/account/login`: Log in a user
 - `POST /api/account/register`: Register a new user
 - `GET /api/account`: Get the current user
 - `GET /api/account/address`: Get the user's address
@@ -136,7 +136,7 @@ docker-compose up
 
 ### Monitoring and Logging
 - Health checks available at `/health`
-- Logs are written to console and can be viewed using `docker-compose logs`
+- Logs are written to the console and can be viewed using `docker-compose logs`
 
 ### Contributing
 1. Fork the repository
