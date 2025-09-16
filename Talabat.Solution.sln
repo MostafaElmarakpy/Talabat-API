@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talabat.Repository", "Talab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talabat.Service", "Talabat.Service\Talabat.Service.csproj", "{72C4E65F-EE94-4CB6-BC79-323AFFA98EF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talabat.Test", "Talabat.Test\Talabat.Test.csproj", "{67E115B8-F598-40B7-8268-9ED9FBABBA71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,8 +35,15 @@ Global
 		{72C4E65F-EE94-4CB6-BC79-323AFFA98EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72C4E65F-EE94-4CB6-BC79-323AFFA98EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72C4E65F-EE94-4CB6-BC79-323AFFA98EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E115B8-F598-40B7-8268-9ED9FBABBA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E115B8-F598-40B7-8268-9ED9FBABBA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E115B8-F598-40B7-8268-9ED9FBABBA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E115B8-F598-40B7-8268-9ED9FBABBA71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F7D6E1B-A9C7-4ED7-9FBF-5B8C381F0351}
 	EndGlobalSection
 EndGlobal
