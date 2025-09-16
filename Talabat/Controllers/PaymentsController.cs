@@ -32,7 +32,6 @@ namespace Talabat.Controllers
             _webhookSecret = configuration["StripeSetting:WebhookSecret"];
         }
 
-
         [Authorize]
         [HttpPost("{basketId}")]
         public async Task<ActionResult<CustomerBasketDto>> CreateAndUpdatePaymentIntent(string basketId)
